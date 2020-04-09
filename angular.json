@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "invontory-app"
+    }
+  },
+  "defaultProject": "invontory-app",
+  "cli": {
+    "analytics": false
+  }
 }
